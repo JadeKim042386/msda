@@ -1,0 +1,4 @@
+# ninja log v5
+0	3225	1677743721015446546	/home/jahyun123/Desktop/ans_box_detect/DETReg/models/ops/build/temp.linux-x86_64-cpython-38/home/jahyun123/Desktop/ans_box_detect/DETReg/models/ops/src/cpu/ms_deform_attn_cpu.o	c431f72682bbf0a7
+0	7977	1677743725767482809	/home/jahyun123/Desktop/ans_box_detect/DETReg/models/ops/build/temp.linux-x86_64-cpython-38/home/jahyun123/Desktop/ans_box_detect/DETReg/models/ops/src/cuda/ms_deform_attn_cuda.o	cba939a94f4d2dde
+0	9963	1677743727751497937	/home/jahyun123/Desktop/ans_box_detect/DETReg/models/ops/build/temp.linux-x86_64-cpython-38/home/jahyun123/Desktop/ans_box_detect/DETReg/models/ops/src/vision.o	7f2345ecdf1cac0d

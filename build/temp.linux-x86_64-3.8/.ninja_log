@@ -1,0 +1,10 @@
+# ninja log v5
+0	2889	1677745658161009062	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/cpu/ms_deform_attn_cpu.o	3b4315c2d5a5a3af
+0	7637	1677745662905015863	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/cuda/ms_deform_attn_cuda.o	1d9b7af8ccd4cd3e
+0	9594	1677745664861018677	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/vision.o	fa0c20da9ba8559b
+7	2654	1677745836401286290	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/cpu/ms_deform_attn_cpu.o	88210569e6e462a9
+7	7547	1677745841297294465	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/cuda/ms_deform_attn_cuda.o	2b2788a3a032fce2
+7	9273	1677745843017297344	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/vision.o	e160bf748c6b5387
+7	2671	1677745969737517663	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/cpu/ms_deform_attn_cpu.o	8a2b55eb1571175f
+7	7471	1677745974533433882	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/cuda/ms_deform_attn_cuda.o	62c9f8899ea62c96
+7	9350	1677745976409370821	/home/jahyun123/Desktop/msda/build/temp.linux-x86_64-3.8/home/jahyun123/Desktop/msda/src/vision.o	75cbd9b8ce2b222b
